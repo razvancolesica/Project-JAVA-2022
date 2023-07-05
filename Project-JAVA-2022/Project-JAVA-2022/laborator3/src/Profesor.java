@@ -1,6 +1,7 @@
 public class Profesor {
     String nume;
     String prenume;
+    
     @Override
     public String toString() {
         return "Profesor{" + "nume=" + nume + ", prenume=" + prenume + '}';
